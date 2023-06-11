@@ -4,7 +4,7 @@
 
 ![site](./client/assets/Screenshot%202023-06-02%20at%2010.32.36%20AM.png)
 
--   [Deployed Site](https://drive.google.com/file/d/1XEz3QELnXeSal_Oh2KS3lpqoS1ZTWsvw/view)
+-   [Live Site](https://lauriefish22.github.io/book-search/)
 
 ## Description
 
