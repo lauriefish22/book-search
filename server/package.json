@@ -27,7 +27,7 @@
         "react-dom": "^16.13.1",
         "react-router-dom": "^6.2.1",
         "react-scripts": "^5.0.1",
-        "mongoose": "^5.9.10",
+        "mongoose": "^7.0.2",
         "bcrypt": "^5.0.0",
         "jsonwebtoken": "^8.5.1"
     },
