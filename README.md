@@ -4,7 +4,7 @@
 
 ![site](./client/assets/Screenshot%202023-06-02%20at%2010.32.36%20AM.png)
 
--   [Live Site](https://lauriefish22.github.io/book-search/)
+-   [Live Site](https://booksearchlf.herokuapp.com/)
 
 ## Description
 
